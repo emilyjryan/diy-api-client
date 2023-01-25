@@ -1,0 +1,8 @@
+db.constellations.insertOne(
+  {
+    name: 'Ursa Major',
+    englishName: 'Big Dipper',
+    imageURL: 'https://pixfeeds.com/images/astronomy/universe/1280-1200-165041368-big-dipper-constellation.jpg',
+    hemisphere: 'Northern',
+  }
+ )
